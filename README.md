@@ -1,4 +1,4 @@
-<style>
+
     .container {
     min-block-size: 25ch;
     inline-size: 100%;
@@ -41,8 +41,7 @@
     gap: 2rem;
     padding: 2rem;
     }
-</style>
-<body>
+
     <div class="place-items container flex">
         <h2>Flex</h2>
         <pre><code>place-items: center;</code></pre>
@@ -84,4 +83,3 @@
       </code></pre>
         <p>I'm just an example paragraph</p>
       </div>
-</body>
