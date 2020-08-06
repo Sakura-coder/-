@@ -1,12 +1,3 @@
-# Grid-and-Flex
-CSS Flex &amp; Grid
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Grid & Flex place shorthand examples</title>
-</head>
 <style>
     .container {
     min-block-size: 25ch;
@@ -94,4 +85,3 @@ CSS Flex &amp; Grid
         <p>I'm just an example paragraph</p>
       </div>
 </body>
-</html>
